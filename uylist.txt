@@ -16,3 +16,4 @@
 ||elobservador.com.uy##.fade::before:style(position: static !important)
 elpais.com.uy##.contenido-exclusivo-nota
 elpais.com.uy##.content-modules:style(display: block !important;)
+www.elpais.com.uy##.text-hider
